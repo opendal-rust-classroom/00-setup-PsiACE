@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ci",
+      "setup": "",
+      "run": "bash check.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
